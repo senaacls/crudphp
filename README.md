@@ -1,2 +1,2 @@
 aplikasi sederhana pengelolaan klinik <br />
-*jangan lupa extract plugins*
+*jangan lupa extract plugins dan import database*
